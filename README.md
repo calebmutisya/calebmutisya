@@ -25,6 +25,10 @@ I'm a passionate software developer with a love for crafting elegant solutions t
 <img align="left" alt="React Native" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 <br />
 
+### 📫 How to reach me: ...
+ - mobile: +254741050611
+ - mutisyacalebmusau@gmail.com
+
 
 <!--
 **calebmutisya/calebmutisya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
